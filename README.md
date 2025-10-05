@@ -1,4 +1,4 @@
-## Hello!👋 I'm Ludvig Järvi
+## Hello!👋
 
 ## About me
 Im a fifth-year student at [Luleå University of Technology](https://www.ltu.se/en) in Computer Science and Engineering with a master in information and communication technology.
