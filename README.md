@@ -4,7 +4,7 @@
 Im a fifth-year student at [Luleå University of Technology](https://www.ltu.se/en) in Computer Science and Engineering with a master in information and communication technology.
 
 ## What i'm doing ATM
-Currently, I'm working on my master's thesis that explores how post-quantum encryption can be integrated into the WireGuard VPN protocol. The project examines quantum-safe key exchange methods, their performance impact, and how they can future-proof secure network communication.
+Currently, I'm working on my [master's thesis](https://github.com/Jaevii/wireguard-go-PQC) that explores how post-quantum encryption can be integrated into the WireGuard VPN protocol. The project examines quantum-safe key exchange methods, their performance impact, and how they can future-proof secure network communication.
 
 Check out my [portfolio website!](https://jaevii.github.io/)
 
